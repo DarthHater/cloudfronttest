@@ -71,11 +71,6 @@
   <plugins>
 
     <plugin>
-      <groupId>org.sonatype.plugins</groupId>
-      <artifactId>yuicompressor-maven-plugin</artifactId>
-    </plugin>
-
-    <plugin>
       <groupId>org.apache.karaf.tooling</groupId>
       <artifactId>karaf-maven-plugin</artifactId>
     </plugin>
