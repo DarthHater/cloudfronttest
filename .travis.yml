@@ -1,2 +1,2 @@
 language: java
-install: mvn dependency:resolve
+install: mvn dependency:resolve --settings .settings/cloudfront-settings.xml
